@@ -1,0 +1,11 @@
+C:\focasWrapper\dotnet\readOpHistWriteToDB\obj\Debug\netcoreapp3.1\readOpHistWriteToDB.csprojAssemblyReference.cache
+C:\focasWrapper\dotnet\readOpHistWriteToDB\obj\Debug\netcoreapp3.1\readOpHistWriteToDB.AssemblyInfoInputs.cache
+C:\focasWrapper\dotnet\readOpHistWriteToDB\obj\Debug\netcoreapp3.1\readOpHistWriteToDB.AssemblyInfo.cs
+C:\focasWrapper\dotnet\readOpHistWriteToDB\bin\Debug\netcoreapp3.1\readOpHistWriteToDB.exe
+C:\focasWrapper\dotnet\readOpHistWriteToDB\bin\Debug\netcoreapp3.1\readOpHistWriteToDB.deps.json
+C:\focasWrapper\dotnet\readOpHistWriteToDB\bin\Debug\netcoreapp3.1\readOpHistWriteToDB.runtimeconfig.json
+C:\focasWrapper\dotnet\readOpHistWriteToDB\bin\Debug\netcoreapp3.1\readOpHistWriteToDB.runtimeconfig.dev.json
+C:\focasWrapper\dotnet\readOpHistWriteToDB\bin\Debug\netcoreapp3.1\readOpHistWriteToDB.dll
+C:\focasWrapper\dotnet\readOpHistWriteToDB\bin\Debug\netcoreapp3.1\readOpHistWriteToDB.pdb
+C:\focasWrapper\dotnet\readOpHistWriteToDB\obj\Debug\netcoreapp3.1\readOpHistWriteToDB.dll
+C:\focasWrapper\dotnet\readOpHistWriteToDB\obj\Debug\netcoreapp3.1\readOpHistWriteToDB.pdb
